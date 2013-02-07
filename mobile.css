@@ -1,0 +1,21 @@
+html, body {
+  background: #fff;
+	color: #000;
+	margin: 0;
+    float: none;
+	}
+h1 {
+    color: blue;
+    text-align: center;
+    }
+h2 {
+    color: orange;
+    text-align: left;
+    }
+h3 {
+    color: black;
+    text-align: right;
+    }
+p {
+    background-color: gray;
+    }

@@ -1,0 +1,21 @@
+html, body {
+  background: #fff;
+    padding: 10px;
+	color: #000;
+    float: 3px;
+	}
+h1 {
+    color: red;
+    text-align: center;
+    }
+h2 {
+    color: purple;
+    text-align: left;
+    }
+h3 {
+    color: yellow;
+    text-align: right;
+    }
+p {
+    background-color: gray;
+    }
